@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Accessibility-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Dolphin SuperNova Free Installer** — Dolphin SuperNova is a screen reading and magnification software for Windows from Dolphin Computer Access. Works without internet access, no account required. Full offline installation.
+**💻 Dolphin SuperNova Free Installer** — Dolphin SuperNova is a comprehensive screen magnifier and screen reader for Windows, designed for users with visual impairments. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Dolphin SuperNova
 
-Dolphin SuperNova is a screen reading and magnification software for Windows from Dolphin Computer Access. Features a powerful screen reader for visually impaired users, screen magnification for partially sighted users, and Braille display support. Used in educational and professional environments, SuperNova provides comprehensive assistive technology for the full range of visual impairment from low vision to complete blindness.
+Dolphin SuperNova is a comprehensive screen magnifier and screen reader for Windows, designed for users with visual impairments. It magnifies the entire screen, reads text aloud with natural voices, and provides Braille display support for full accessibility.
 
 ---
 
 ## ❌ Problem: Dolphin SuperNova is hard to access
 
-- **Windows Only** — No macOS or cross-platform version
-- **Commercial License** — Professional pricing for accessibility software
-- **Learning Curve** — Screen reader operation requires training and practice
-- **Application Compatibility** — Some applications provide poor accessibility information for screen readers
+- **High License Cost** — Professional accessibility software with enterprise pricing
+- **Windows Only** — macOS has built-in VoiceOver; Windows users need third-party solutions
+- **Learning Investment** — Effective use requires significant training and setup time
+- **Update Costs** — Major version upgrades often require additional purchase
 
 ---
 
@@ -121,7 +121,7 @@ Dolphin SuperNova is a screen reading and magnification software for Windows fro
 
 ---
 
-**Dolphin SuperNova Free Installer** — Dolphin SuperNova is a screen reading and magnification software for Windows from Dolphin Computer Access. Install without internet connection today!
+**Dolphin SuperNova Free Installer** — Dolphin SuperNova is a comprehensive screen magnifier and screen reader for Windows, designed for users with visual impairments. Install without internet connection today!
 
 <div align="center">
 
